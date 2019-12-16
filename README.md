@@ -1,2 +1,2 @@
 # HomeyThermostat
-Heating control algoritme for Homey 
+Homeyscript with heating control algoritme for Homey home automation device 
